@@ -1,0 +1,17 @@
+{
+   "msg_template": "For input string: \"{id}\"",
+   "slpt_error_code": "SLPT-1005",
+   "formatted_msg": "(SLPT-1005) For input string: \"{id}\"",
+   "exception_id": "1837AEFC079",
+   "error_code": 1005,
+   "exception_class": "java.lang.NumberFormatException",
+   "exception_detail": {
+      "file": "NumberFormatException.java",
+      "method": "forInputString",
+      "line_number": 65,
+      "class": "java.lang.NumberFormatException"
+   },
+   "http_response_code": 500,
+   "timestamp": "2022-09-26 17:54:36.281",
+   "exception_message": "For input string: \"{id}\""
+}

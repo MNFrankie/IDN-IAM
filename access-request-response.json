@@ -1,0 +1,23 @@
+{"approvalsMustBeExternal":false,"autoApprovalEnabled":false,"requestOnBehalfOfConfig":{"allowRequestOnBehalfOfAnyoneByAnyone":false,"allowRequestOnBehalfOfEmployeeByManager":false},"approvalReminderAndEscalationConfig":{"daysUntilEscalation":null,"daysBetweenReminders":null,"maxReminders":null,"fallbackApproverRef":null},"entitlementRequestConfig":{"allowEntitlementRequest":true,"requestCommentsRequired":false,"deniedCommentsRequired":false,"grantRequestApprovalSchemes":"sourceOwner"}}
+
+
+/*{
+    "approvalsMustBeExternal": false,
+    "autoApprovalEnabled": false,
+    "requestOnBehalfOfConfig": {
+        "allowRequestOnBehalfOfAnyoneByAnyone": false,
+        "allowRequestOnBehalfOfEmployeeByManager": false
+    },
+    "approvalReminderAndEscalationConfig": {
+        "daysUntilEscalation": null,
+        "daysBetweenReminders": null,
+        "maxReminders": null,
+        "fallbackApproverRef": null
+    },
+    "entitlementRequestConfig": {
+        "allowEntitlementRequest": true,
+        "requestCommentsRequired": false,
+        "deniedCommentsRequired": false,
+        "grantRequestApprovalSchemes": "sourceOwner"
+    }
+}*/
