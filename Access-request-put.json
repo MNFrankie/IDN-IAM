@@ -1,0 +1,30 @@
+{"approvalsMustBeExternal":false,"autoApprovalEnabled":false,"requestOnBehalfOfConfig":{"allowRequestOnBehalfOfAnyoneByAnyone":false,"allowRequestOnBehalfOfEmployeeByManager":false},"approvalReminderAndEscalationConfig":{"daysUntilEscalation":3,"daysBetweenReminders":2,"maxReminders":1,"fallbackApproverRef":{"email":"fmuriithi@x.x.x","type":"IDENTITY","id":"2c9180838366dc6001836ac682010274","name":"Trainee"}},"entitlementRequestConfig":{"allowEntitlementRequest":true,"requestCommentsRequired":false,"deniedCommentsRequired":false,"grantRequestApprovalSchemes":"sourceOwner"}}
+
+
+
+
+/*{
+    "approvalsMustBeExternal": false,
+    "autoApprovalEnabled": false,
+    "requestOnBehalfOfConfig": {
+        "allowRequestOnBehalfOfAnyoneByAnyone": false,
+        "allowRequestOnBehalfOfEmployeeByManager": false
+    },
+    "approvalReminderAndEscalationConfig": {
+        "daysUntilEscalation": 3,
+        "daysBetweenReminders": 2,
+        "maxReminders": 1,
+        "fallbackApproverRef": {
+            "email": "fmuriithi@x.x.x",
+            "type": "IDENTITY",
+            "id": "2c9180838366dc6001836ac682010274",
+            "name": "Trainee"
+        }
+    },
+    "entitlementRequestConfig": {
+        "allowEntitlementRequest": true,
+        "requestCommentsRequired": false,
+        "deniedCommentsRequired": false,
+        "grantRequestApprovalSchemes": "sourceOwner"
+    }
+}*/
