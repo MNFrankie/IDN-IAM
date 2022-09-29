@@ -1,0 +1,1 @@
+{"id":"f218776f-a485-4850-b31b-0fa19500c93b","name":" Set from LDAP Email","type":"lower","attributes":{"input":{"type":"concat","attributes":{"values":[{"type":"accountAttribute","attributes":{"attributeName":"mail","sourceName":"Directory"}},"_ZZZ"]}}},"internal":false}
